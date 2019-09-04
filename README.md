@@ -10,3 +10,6 @@ A project realized as part of the "Complete JavaScript Course" of Jonas Schmedtm
 Design adapted for my liking, and Media Queries added for responsive design. 
        
 HTML - CSS - JavaScript         
+
+## Demo:
+https://lucierabahi.github.io/budget-js-app/
