@@ -361,6 +361,7 @@ h2 {
     .add__description {
         width: 40%;
         margin: auto;
+        padding: 0 50px 0 50px;
         margin-top: 5px;
     }
     
