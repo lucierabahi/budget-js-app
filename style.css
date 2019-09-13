@@ -356,12 +356,11 @@ h2 {
         flex-wrap: wrap;
     }
 
-    .add__value,
     .add__type,
+    .add__value,
     .add__description {
-        width: 40%;
+        width: 30%;
         margin: auto;
-        padding: 0 50px 0 50px;
         margin-top: 5px;
     }
     
