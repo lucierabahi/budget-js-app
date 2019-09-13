@@ -357,13 +357,13 @@ h2 {
     }
 
     .add__value,
-    .add__type {
+    .add__type,
+    .add__description {
         width: 40%;
         margin: auto;
         margin-top: 5px;
     }
-
-    .add__description,
+    
     .add__btn {
         width: 80%;
         margin: auto;
