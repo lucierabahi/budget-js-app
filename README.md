@@ -7,7 +7,7 @@
 ---         
                                           
 A project realized as part of the "Complete JavaScript Course" of Jonas Schmedtmann on Udemy.           
-Design adapted for my liking, and Media Queries added for responsive design. 
+Design adapted to my liking, and Media Queries added for responsive design. 
        
 HTML - CSS - JavaScript         
 
